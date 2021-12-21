@@ -1,0 +1,99 @@
+***Version 3.6 Release Date: December 09, 2021
+- bug fix for favorites option which appear when the player was set as sticky
+
+***Version 3.5 Release Date: October 26, 2021
+- option to select your favorite audio files from the playlist
+
+***Version 3.4.0 Release Date: September 29, 2021
+- read folder feature improvements
+
+***Version 3.4 Release Date: July 29, 2021
+- the 'changeMp3' API function will also auto-play the song
+
+***Version 3.3 Release Date: June 30, 2021
+- code improvements
+
+***Version 3.2 Release Date: May 22, 2021
+- bug fix
+
+***Version 3.1 Release Date: May 12, 2021
+- option to start the player minified
+- new API function added to change the category by clicking a button on the page
+
+***Version 3.0 Release Date: March 22, 2021
+- moved html5 audio tag inside the script so that it will not be affected by the incorrect usage of mediaelement library
+- "use strict" mode on
+- updates to be compatible with jQuery 3.5+
+
+***Version 2.1.2 Release Date: February 18, 2021
+- updates for 2021
+
+***Version 2.1.1 Release Date: November 05, 2020
+- css modifications
+
+***Version 2.1.0 Release Date: April 29, 2020
+- css modifications
+
+***Version 2.1 Release Date: April 23, 2020
+- option to define a link for the song author
+
+***Version 2.0.1 Release Date: February 21, 2020
+- updates for 2020
+
+***Version 2.0 Release Date: July 02, 2019
+- replaced the .click(), .mouseover(), .mouseoout() etc functions with the equivalent .on()
+
+***Version 1.9.2.0 Release Date: April 26, 2019
+- updated the help documentation
+
+***Version 1.9.2 Release Date: March 11, 2019
+- updated the FaceBook API to the latest version 3.2
+- updated the help information regarding FaceBook Share
+
+***Version 1.9.1 Release Date: February 02, 2019
+- bug fix for Firefox 65.0
+
+***Version 1.9.0 Release Date: January 11, 2019
+- code improvements reading id3v2 tags
+
+***Version 1.9 Release Date: November 30, 2018
+- cookie improvement for continuous playback feature
+
+﻿***Version 1.8 Release Date: October 19, 2018
+- API function to load a new song from a button on the page
+
+***Version 1.7 Release Date: June 27, 2018
+- Chrome auto-play restriction for HTML5 audio & video tags fix
+- Safari 11 on Mac auto-play restriction for HTML5 audio & video tags fix
+
+***Version 1.6 Release Date: April 27, 2018
+- code improvements for reading the mp3 file total time
+- code improvements for pop-up feature
+
+***Version 1.5.1 Release Date: February 16, 2018
+- bug fix which appeared on IOS when the playlist had not scroll
+
+***Version 1.5 Release Date: February 15, 2018
+- code improvements
+
+***Version 1.4 Release Date: February 02, 2018
+- new parameter 'showNextPrevBut' to hide/show the next & previous buttons.
+
+***Version 1.3 Release Date: January 09, 2018
+- code improvements for touch navigation feature
+
+﻿***Version 1.2.0 Release Date: September 23, 2017
+- code improvements reading id3v2 tags
+- code improvements for download mp3 feature
+
+***Version 1.2 Release Date: August 24, 2017
+- code improvements for shuffle feature
+
+***Version 1.1.1 Release Date: June 20, 2017
+- code improvements for css
+
+***Version 1.1 Release Date: June 17, 2017
+- code improvements for responsive behavior
+
+
+***Version 1.0 Release Date: June 10, 2017
